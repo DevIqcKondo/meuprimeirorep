@@ -6,7 +6,7 @@ namespace meuprimeirorep
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("BATATA!");
+            Console.WriteLine("Isadora Kondo!");
         }
     }
 }
